@@ -7,11 +7,11 @@
 
 | Файл | Описание |
 |---|---|
-| `таблица лаборатория.png` | Таблица `laboratory` в конструкторе pgAdmin |
-| `таблица расписание.png` | Таблица `timetable` в конструкторе pgAdmin |
+| `01_laboratory.png` | Таблица `laboratory` в конструкторе pgAdmin |
+| `02_timetable.png` | Таблица `timetable` в конструкторе pgAdmin |
 | `laboratory.sql` | SQL-скрипт для таблицы laboratory |
 | `timetable.sql` | SQL-скрипт для таблицы timetable |
-| `Скрин диаграммы ERD.png` | ERD-диаграмма базы данных |
+| `03_erd.png` | ERD-диаграмма базы данных |
 | `06_laboratories_import.csv` | CSV-файл для импорта данных через мастер pgAdmin |
 
 ## 🗄 База данных и связи
@@ -26,10 +26,10 @@
 ## 📸 Скриншоты
 
 ### Таблица laboratory
-![Laboratory](таблица лаборатория.png)
+![Laboratory](01_laboratory.png)
 
 ### Таблица timetable
-![Timetable](таблица расписание.png)
+![Timetable](02_timetable.png)
 
 ### ERD-диаграмма
-![ERD](Скрин диаграммы ERD.png)
+![ERD](03_erd.png)
